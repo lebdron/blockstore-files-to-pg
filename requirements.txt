@@ -1,0 +1,7 @@
+grpcio==1.21.1
+grpcio-tools==1.21.1
+iroha==0.0.5.4
+protobuf==3.8.0
+psycopg2-binary==2.8.4
+-e git+https://github.com/igor-egorov/reblockstorer.git@4ca47e39322ba11d6c32455448d3d183445a156e#egg=ReBlockStorer
+six==1.12.0
