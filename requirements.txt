@@ -5,3 +5,4 @@ protobuf==3.8.0
 psycopg2-binary==2.8.4
 -e git+https://github.com/igor-egorov/reblockstorer.git@4ca47e39322ba11d6c32455448d3d183445a156e#egg=ReBlockStorer
 six==1.12.0
+tqdm==4.40
